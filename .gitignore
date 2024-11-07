@@ -1,0 +1,19 @@
+# Ignore the node_modules folder
+node_modules/
+
+# Ignore the dist folder (build output)
+dist/
+
+# Ignore environment configuration files
+.env
+
+# Ignore package manager lock files
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+
+# Ignore temporary or IDE-specific files
+*.log
+.DS_Store
+.idea/
+.vscode/
